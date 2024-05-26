@@ -2,7 +2,7 @@ package com.nimap.Project.entity;
 
 import java.util.List;
 
-import com.nimap.Project.repository.Product;
+
 
 import jakarta.persistence.CascadeType;
 import jakarta.persistence.Entity;
